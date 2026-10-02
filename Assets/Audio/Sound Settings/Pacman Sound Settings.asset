@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44a64794756cd9b4c964372f648c2581, type: 3}
+  m_Name: Pacman Sound Settings
+  m_EditorClassIdentifier: Assembly-CSharp::SoundSettings
+  audioMixerGroup: {fileID: 1694237536260091947, guid: 56a0e299e95f63d4e8ed53bfde4308bc, type: 2}
+  loop: 0
+  volume: 0.25
+  pitch: 1
+  spatialBlend: 0
+  reverbZoneWet: 1
+  maxDistance: 25
+  informsEnemies: 0
